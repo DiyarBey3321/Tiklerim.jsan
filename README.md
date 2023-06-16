@@ -1,3 +1,3 @@
 # Tiklerim.jsan
-["diyardemirtaş.37"].jsan
+["diyardemirtas.37"].jsan
 
